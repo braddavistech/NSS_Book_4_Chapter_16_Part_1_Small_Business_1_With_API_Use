@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "name": "Tim Janis",
+      "departmentId": 1,
+      "equipmentId": 1,
+      "id": 1
+    },
+    {
+      "name": "Sally Fields",
+      "departmentId": 5,
+      "equipmentId": 3,
+      "id": 2
+    },
+    {
+      "name": "Billy Bass",
+      "departmentId": 2,
+      "equipmentId": 2,
+      "id": 3
+    },
+    {
+      "name": "June Cleaver",
+      "departmentId": 4,
+      "equipmentId": 5,
+      "id": 4
+    },
+    {
+      "name": "Bobby Bouche",
+      "departmentId": 1,
+      "equipmentId": 1,
+      "id": 5
+    },
+    {
+      "name": "David Hasselhoff",
+      "departmentId": 3,
+      "equipmentId": 4,
+      "id": 6
+    }
+  ],
+  "departments": [
+    {
+      "departmentId": 1,
+      "name": "Information Techonology"
+    },
+    {
+      "departmentId": 2,
+      "name": "Accounting"
+    },
+    {
+      "departmentId": 3,
+      "name": "Sales"
+    },
+    {
+      "departmentId": 4,
+      "name": "Human Resources"
+    },
+    {
+      "departmentId": 5,
+      "name": "Marketing"
+    }
+  ],
+  "equipment": [
+    {
+      "equipmentId": 1,
+      "name": "MacBook Pro"
+    },
+    {
+      "equipmentId": 2,
+      "name": "Calculator"
+    },
+    {
+      "equipmentId": 3,
+      "name": "Ipad"
+    },
+    {
+      "equipmentId": 4,
+      "name": "Dell Desktop"
+    },
+    {
+      "equipmentId": 5,
+      "name": "HP Laptop"
+    }
+  ]
+}
